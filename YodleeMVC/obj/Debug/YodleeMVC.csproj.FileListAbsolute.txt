@@ -1,0 +1,5 @@
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC\bin\YodleeMVC.dll
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC\bin\YodleeMVC.pdb
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC\obj\Debug\YodleeMVC.csprojResolveAssemblyReference.cache
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC\obj\Debug\YodleeMVC.dll
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC\obj\Debug\YodleeMVC.pdb

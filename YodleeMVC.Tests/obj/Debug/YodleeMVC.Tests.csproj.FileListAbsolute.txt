@@ -1,0 +1,8 @@
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\bin\Debug\YodleeMVC.Tests.dll.config
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\bin\Debug\YodleeMVC.Tests.dll
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\bin\Debug\YodleeMVC.Tests.pdb
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\bin\Debug\YodleeMVC.dll
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\bin\Debug\YodleeMVC.pdb
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\obj\Debug\YodleeMVC.Tests.csprojResolveAssemblyReference.cache
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\obj\Debug\YodleeMVC.Tests.dll
+C:\Users\usamir\Documents\Visual Studio 2010\Projects\YodleeMVC\YodleeMVC.Tests\obj\Debug\YodleeMVC.Tests.pdb
